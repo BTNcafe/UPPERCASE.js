@@ -1,0 +1,16 @@
+{
+	"name": "uppercase.js",
+	"version": "0.0.3",
+	"description": "UPPERCASE JS lib version. ( http://UPPERCASE.IO )",
+	"main": "UPPERCASE.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BTNcafe/UPPERCASE.js"
+	},
+	"keywords": ["javascript", "lib", "UPPERCASE"],
+	"author": "hanul",
+	"license": "BTNcafe Solution License",
+	"bugs": {
+		"url": "https://github.com/BTNcafe/UPPERCASE.js/issues"
+	}
+}
