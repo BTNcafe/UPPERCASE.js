@@ -82,7 +82,7 @@ https://github.com/BTNcafe/UPPERCASE.js/blob/master/LICENSE.md
 ## UPPERCASE-OOP.js
 객체지향 프로그래밍을 하기 위한 JavaScript 라이브러리입니다.<br>
 http://UPPERCASE.IO/#UDOC/UPPERCASE.js/OOP
-- UPPERCASE-UTIL.js이 필요합니다.
+- UPPERCASE-UTIL.js가 필요합니다.
 
 ## UPPERCASE-UTIL.js
 다양한 기능을 제공하는 JavaScript 유틸리티 라이브러리입니다.<br>
@@ -93,7 +93,7 @@ http://UPPERCASE.IO/#UDOC/UPPERCASE.js/UTIL
 JavaScript로 모듈 프로그래밍을 할 수 있도록 지원하는 라이브러리입니다.<br>
 http://UPPERCASE.IO/#UDOC/UPPERCASE.js/BOX
 - UPPERCASE-OOP.js가 필요합니다.
-- UPPERCASE-UTIL.js이 필요합니다.
+- UPPERCASE-UTIL.js가 필요합니다.
 
 
 
