@@ -1,3 +1,7 @@
+### UPPERCASE.JS 1.4 버젼부터 다운로드 저장소가 https://bitbucket.org/uppercaseio/uppercase.js 로 이전되었습니다.
+
+<hr />
+
 # UPPERCASE.js
 UPPERCASE.js는 API가 대문자로 이루어진 JavaScript 라이브러입니다. OOP, UTIL, BOX 세가지 파트로 나뉩니다. [UPPERCASE.IO](http://UPPERCASE.IO) 등 다양한 프로젝트에서 사용됩니다.
 
