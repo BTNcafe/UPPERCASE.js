@@ -1,4 +1,4 @@
-### UPPERCASE.JS 1.4 버젼부터 다운로드 저장소가 https://bitbucket.org/uppercaseio/uppercase.js 로 이전되었습니다.
+### UPPERCASE.JS 1.3.1 버젼부터 다운로드 저장소가 https://bitbucket.org/uppercaseio/uppercase.js 로 이전되었습니다.
 
 <hr />
 
